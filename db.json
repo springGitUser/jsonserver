@@ -1,0 +1,16 @@
+ [{
+ 		"id": 1,
+ 		"username": "Sebastian", 		
+ 		"email": "sebastian@codingthesmartway.com"
+ 	},
+ 	{
+ 		"id": 2,
+ 		"username": "Steve", 		
+ 		"email": "steve@codingthesmartway.com"
+ 	},
+ 	{
+ 		"id": 3,
+ 		"username": "Ann", 		
+ 		"email": "ann@codingthesmartway.com"
+ 	}
+ ]
